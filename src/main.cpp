@@ -1,7 +1,7 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 
-#include "cppProjectTemplate/Game.hpp"
+#include "SFML_Animation/Game.hpp"
 
 int main()
 {

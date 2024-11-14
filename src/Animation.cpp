@@ -1,4 +1,4 @@
-#include "cppProjectTemplate/Animation.hpp"
+#include "SFML_Animation/Animation.hpp"
 
 Animation::Animation(sf::Texture* texture, sf::Vector2u imageCount, float switchTime)
     : m_imageCount{ imageCount },

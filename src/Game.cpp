@@ -1,8 +1,8 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 
-#include "cppProjectTemplate/Game.hpp"
-#include "cppProjectTemplate/Animation.hpp"
+#include "SFML_Animation/Game.hpp"
+#include "SFML_Animation/Animation.hpp"
 
 void Game::run()
 {
