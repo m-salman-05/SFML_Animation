@@ -1,0 +1,6 @@
+# Ignore .vscode folder
+.vscode/
+
+# Ignore all compiled executables (common patterns)
+*.out
+*.exe
