@@ -1,4 +1,4 @@
-## CS/CE 224/272 Semester Project
+## CS/CE 224/272 Semester Project (Template for students - It's still a WIP).
 
 ### Using SFML for my project to create an animation.
 
